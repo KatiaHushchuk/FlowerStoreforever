@@ -7,11 +7,7 @@ import lombok.Setter;
 @Setter
 public abstract class Item {
 
-    private FlowerBucket flowerBucket;
-
-    public double getPrice() {
-        return flowerBucket != null ? flowerBucket.getPrice() : 0;
-    }
+    public abstract double getPrice();
 
     public String getDescription() {
         return "Simple Item";

@@ -8,7 +8,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class FlowerBucket {
+public class FlowerBucket extends Item {
     
     private List<FlowerPack> flowerPacks;
 
