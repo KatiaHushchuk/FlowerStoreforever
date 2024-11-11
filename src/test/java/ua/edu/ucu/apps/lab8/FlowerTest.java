@@ -2,7 +2,8 @@ package ua.edu.ucu.apps.lab8;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
-import ua.edu.ucu.apps.lab8.model.Flower;
+
+import ua.edu.ucu.apps.flowerstore.model.Flower;
 
 class FlowerTest {
 

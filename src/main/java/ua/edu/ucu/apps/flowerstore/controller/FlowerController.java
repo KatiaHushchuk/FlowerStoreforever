@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.lab8.controller;
+package ua.edu.ucu.apps.flowerstore.controller;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import ua.edu.ucu.apps.lab8.model.Flower;
-import ua.edu.ucu.apps.lab8.service.FlowerService;
+import ua.edu.ucu.apps.flowerstore.model.Flower;
+import ua.edu.ucu.apps.flowerstore.service.FlowerService;
 
 @RestController
 @RequestMapping("/api/v1")

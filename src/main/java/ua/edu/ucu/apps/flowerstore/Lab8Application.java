@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.lab8;
+package ua.edu.ucu.apps.flowerstore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

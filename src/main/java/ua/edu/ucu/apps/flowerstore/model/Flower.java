@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.lab8.model;
+package ua.edu.ucu.apps.flowerstore.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
